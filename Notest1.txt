@@ -1,0 +1,41 @@
+Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.Serialization of objects:
+ Serialization is the process of storing object contents into a file. The class whose objects are stored in the file should implement "Serializable' interface of java.io package.
+ Serializable interface is an empty interface without any members and methods, such an interface is called 'marking interface' or 'tagging interface'.
+ Marking interface is useful to mark the objects of a class for a special purpose. For example, 'Serializable' interface marks the class objects as 'serializable' so that they can be written into a file. If serializable interface is not implemented by the class, then writing that class objects into a file will lead to NotSerializableException.
+ static and transient variables cannot be serialized.
+De-serialization is the process of reading back the objects from a file.
